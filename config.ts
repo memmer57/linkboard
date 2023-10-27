@@ -15,7 +15,7 @@ const data: Data = {
     nameRandomizer: false,
   },
   name: "Matěj Emmer",
-  description: "My socials. Feel free to text me to hang out or discuss work.",
+  description: "My socials",
   links: [
     {
       name: "Telegram",
