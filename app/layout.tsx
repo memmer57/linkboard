@@ -5,16 +5,18 @@ import "@/styles/normalize.css";
 import "@/styles/variables.css";
 
 export const metadata: Metadata = {
-  title: "Frank's LinkBoard",
+  title: "Memmer's LinkBoard",
   description: "A link board, like a bulletin board, but for links.",
-  authors: [
-    {
-      name: "HangerThem",
-      url: "https://hangerthem.com",
-    },
+  keywords: [
+    "Matěj",
+    "Memmer",
+    "Emmer",
+    "link",
+    "board",
+    "linkboard",
+    "bulletin",
+    "bulletin",
   ],
-  keywords: ["link", "board", "linkboard", "bulletin", "bulletin"],
-  creator: "HangerThem",
 };
 
 export default function RootLayout({

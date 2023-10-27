@@ -57,7 +57,7 @@ export default function Home() {
     <Container>
       <HeaderContainer>
         <ProfilePicture
-          src="/profile.png"
+          src="/profile.jpg"
           alt="Profile"
           width={150}
           height={150}

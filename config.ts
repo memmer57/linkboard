@@ -1,10 +1,8 @@
 import {
-  Twitter,
   Github,
   Linkedin,
   EnvelopeFill,
   Telegram,
-  Instagram,
   Messenger,
   Spotify,
   Discord,
@@ -15,52 +13,42 @@ const data: Data = {
   animation: {
     nameRandomizer: false,
   },
-  name: "Frank Borisjuk",
-  description: "Software Engineer",
+  name: "Matěj Emmer",
+  description: "My socials. Feel free to text me to hang out or discuss work.",
   links: [
     {
-      name: "Twitter",
-      url: "https://twitter.com/hangerthem",
-      icon: Twitter,
-    },
-    {
-      name: "GitHub",
-      url: "https://github.com/hangerthem",
-      icon: Github,
-    },
-    {
-      name: "LinkedIn",
-      url: "https://www.linkedin.com/in/franti%C5%A1ek-borisjuk-022686225/",
-      icon: Linkedin,
-    },
-    {
-      name: "Email",
-      url: "mailto:f.borisjuk@hangerthem.com",
-      icon: EnvelopeFill,
-    },
-    {
       name: "Telegram",
-      url: "https://t.me/hangerthem",
+      url: "https://t.me/memmer57",
       icon: Telegram,
     },
     {
-      name: "Instagram",
-      url: "https://www.instagram.com/ferda_borisjuk/",
-      icon: Instagram,
+      name: "Email",
+      url: "mailto:matej.emmer@gmail.com",
+      icon: EnvelopeFill,
     },
     {
       name: "Messenger",
-      url: "https://m.me/frant.borisjukovic",
+      url: "https://m.me/matejemm",
       icon: Messenger,
     },
     {
+      name: "LinkedIn",
+      url: "https://www.linkedin.com/in/matej-emmer/",
+      icon: Linkedin,
+    },
+    {
+      name: "GitHub",
+      url: "https://github.com/memmer57",
+      icon: Github,
+    },
+    {
       name: "Spotify",
-      url: "https://open.spotify.com/user/jiguc8apyguwslzwptmx0e4zn",
+      url: "https://open.spotify.com/user/21n3okyz2g2pj62v7mo3po2iy",
       icon: Spotify,
     },
     {
-      name: "Discord",
-      url: "https://discord.com/users/495134242825699328",
+      name: "Discord: #memmer57",
+      url: "https://discord.com/app",
       icon: Discord,
     },
   ],
