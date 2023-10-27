@@ -1,4 +1,4 @@
-# LinkBoard
+# LinkBoard (fork)
 
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/hangerthem/linkboard)
 ![GitHub Issues](https://img.shields.io/github/issues/hangerthem/linkboard)
