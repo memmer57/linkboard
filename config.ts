@@ -9,6 +9,7 @@ import {
 } from "react-bootstrap-icons";
 
 const data: Data = {
+  title: "Frank's Linkboard",
   theme: "default",
   animation: {
     nameRandomizer: false,
